@@ -1,4 +1,4 @@
-# Pomodoro Timer Starter files
+# Pomodoro Timer
 
 [Try Here🔗](https://fanpeng-l.github.io/js_pomodoro_app/)
 
